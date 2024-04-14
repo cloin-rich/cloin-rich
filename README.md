@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Google Earth Engine**
 - 📫 How to reach me **shoot me a message**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I'm half latvian, sveiks!**
+- ⚡ Fun fact: **I'm half latvian, sveiki!**
 
 <!---
 cloin-rich/cloin-rich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
